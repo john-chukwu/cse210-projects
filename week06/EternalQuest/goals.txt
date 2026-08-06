@@ -1,0 +1,3 @@
+1850
+SimpleGoal:Run Marathon,Finish a marathon,1000,True
+ChecklistGoal:Attend the Temple,Attend the temple,50,500,3,3
